@@ -54,7 +54,7 @@ npm install
 npm run dev
 ```
 
-打開  http://localhost:5173/Thirteen/。
+打開  http://localhost:5173/Thirteen/
 
 ---
 
